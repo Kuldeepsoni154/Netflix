@@ -1,2 +1,3 @@
 Hello this is my first git repo
 this is the second line of code second attempt
+i like this code and you need to merge this code.
